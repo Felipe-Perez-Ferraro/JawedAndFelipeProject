@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    background-color: tomato;
+    height: 100vh;
+}
+
+#title {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+    font-size: 20px;
+}
+
+#image {
+    max-width: 400px;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#info {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.about {
+    font: 32px;
+    text-align: center;
+}
+
+.aboutParagraph {
+    font: 20px;
+    text-align: center;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+}
+
+#tribute-link:hover {
+    color: white;
+}
